@@ -1,0 +1,49 @@
+body	{
+	color: white 
+}
+
+html	{
+	background-image: url("http://hdwallpaperslovely.com/wp-content/gallery/webpage-background-images/pagebackground.png");
+		 -o-background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+} 
+table.main	{
+	 width: 90%;
+}
+
+div.a:hover
+	{
+		background-color: #0099FF; 
+	}
+div.b:hover
+	{
+		background-color: #0099FF;
+	} 
+div.a {
+	background-color: #000066;
+	border-radius: 25px;
+	
+}
+div.b {
+	background-color: #0000CC;
+	border-radius: 25px;
+	
+}
+a 	{
+	color: white;
+	text-decoration: none;
+}
+
+.a1 {
+	background-color: #0000CC;
+	border-radius: 25px;
+}
+
+div.b1 {
+	background-color: #000066;
+	border-radius: 12px;
+	font-size: 25px;
+	width: 100%;
